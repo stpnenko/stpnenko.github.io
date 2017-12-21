@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="uk">
+
 
 <head>
     <style type="text/css">
